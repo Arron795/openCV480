@@ -1,0 +1,37 @@
+﻿  quickdemo.cpp
+D:\repos\openCV\opencv480\quickdemo.cpp(339,42): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\repos\openCV\opencv480\quickdemo.cpp(339,33): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\repos\openCV\opencv480\quickdemo.cpp(361,26): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\repos\openCV\opencv480\quickdemo.cpp(361,19): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\repos\openCV\opencv480\quickdemo.cpp(365,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\repos\openCV\opencv480\quickdemo.cpp(366,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\repos\openCV\opencv480\quickdemo.cpp(428,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\repos\openCV\opencv480\quickdemo.cpp(429,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\repos\openCV\opencv480\quickdemo.cpp(430,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\repos\openCV\opencv480\quickdemo.cpp(491,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\repos\openCV\opencv480\quickdemo.cpp(492,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\repos\openCV\opencv480\quickdemo.cpp(494,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\repos\openCV\opencv480\quickdemo.cpp(495,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\repos\openCV\opencv480\quickdemo.cpp(496,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  0 of 110 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  opencv480.vcxproj -> D:\repos\openCV\opencv480\x64\Release\opencv480.exe
